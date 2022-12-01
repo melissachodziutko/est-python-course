@@ -12,3 +12,14 @@ def main():
   
   
 main()
+
+#Instructions: instead of setting our variable to 10, what if we asked the user for the variable and used that value in our comparisons?
+#The first if statement should read: if the variable is greater than 12, print out (variable, " is greater than 12")
+#The second if/else should read: Else if the variable is greater than 11, print out (variable, "is greater than 11")
+#The third if/else should read: Else if the variable is equal to 10, print out (variable, "is equal to 10")
+#The else should read: Else print out (variable, "is less than 10")
+
+
+def main():
+
+main()
