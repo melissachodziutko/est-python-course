@@ -1,4 +1,14 @@
 def main():
+    
+    #here's a working example
+    age = input("Enter your age")
+    print("You are", age, "years old")
+    
+    #how would you ask for someone's name?
+    name = ?
+    #can you print out "Your name is" with the name variable?
+    print(?)
+    
     #i'm trying to do math with the numbers 2 and 4, but it's getting 3 and 5... why?
     numbers = [1, 2, 3, 4, 5]
     print(numbers[2])
@@ -25,8 +35,10 @@ def main():
     dogBreeds.?(?,?)
     print(dogBreeds)
     
-    
-    
+    #ask the user for a dog breed and then append it to the list :)
+    breedInput = ?
+    dogBreeds.append(?)
+    print(dogBreeds)
     
     
 main()
