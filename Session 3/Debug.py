@@ -11,6 +11,20 @@ def main():
     print(numbers2[3])
     print(numbers2[5])
     
+    dogBreeds = ["Lab", "Pug", "Yorkie"]
+    
+    #how do I append "Poodle" to dogBreeds?
+    dogBreeds.?()
+    print(dogBreeds)
+    
+    #how do I remove "Pug"?
+    dogBreeds.?()
+    print(dogBreeds)
+    
+    #how would I insert "Shiba" into index 1?
+    dogBreeds.?(?,?)
+    print(dogBreeds)
+    
     
     
     
