@@ -47,11 +47,6 @@ def main():
     else:
         print("toCheck is invalid")
     
-    
- 
-    temp = 5
-    if temp > 5:
-        print("temp is greater than or equal to 5")
         
     
     #enter your name here
