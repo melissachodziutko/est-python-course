@@ -5,11 +5,15 @@ if they add up to or less than 21, return the sum.
 If it's over 21, return 0. 
 If it's over 21 BUT there's an 11 as one of the values, return the sum - 10. '''
 
-def bust():
-    
-    
+def bust('''something goes here'''):
+    #add the three numbers
+    #if: it's over 21 but there's an 11 as one of the values
+    #elif: if its over 21
+    #elif: if they add up to or less than 21
     
 def main():
+    #Generate 3 random numbers
+    #print/call bust with the 3 generated numbers
     
 
 main()
