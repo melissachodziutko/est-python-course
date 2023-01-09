@@ -4,6 +4,8 @@ in the function bust: add these three numbers together.
 if they add up to or less than 21, return the sum. 
 If it's over 21, return 0. 
 If it's over 21 BUT there's an 11 as one of the values, return the sum - 10. '''
+import random
+
 
 def bust('''something goes here'''):
     #add the three numbers
@@ -12,7 +14,9 @@ def bust('''something goes here'''):
     #elif: if they add up to or less than 21
     
 def main():
-    #Generate 3 random numbers
+    num1 = random.randint(1,12)
+    num2 = random.randint(1,12)
+    num3 = random.randint(1,12)
     #print/call bust with the 3 generated numbers
     
 
